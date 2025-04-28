@@ -41,7 +41,7 @@ values
 Run the script using:
 
 ```sh
-python afk_prevention.py
+python am_not_afk.py
 ```
 
 ### 🔧 Configuration Options
